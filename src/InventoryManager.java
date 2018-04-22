@@ -43,25 +43,31 @@ public class InventoryManager {
         //understand recipies
         HashMap<HashMap, Integer> ingredientsvtime = new HashMap();
         HashMap<String, Integer> ingredientquatity = new HashMap();
+        this.recipes = new HashMap();
         String[] recepies = parts[2].split("\n");
         int no_of_recepies = Merchadise.length;
-        System.out.println(recepies[2]);
+        //System.out.println(recepies[2]);
 
         for(int i = 1;i < no_of_recepies;i++){
             String[] products = recepies[i].split("[ ]");
-            for(int j = 1;j < products.length; j++){
+
+            for(int j = 1;j < products.length - 2; j++){
                 String[] ingredients_list = products[j].split(":");
-                //ingredientquatity.put(ingredients_list[0].replace("[",""),Integer.parseInt(ingredients_list[1]));
-                System.out.println(ingredients_list[1]);
+                ingredientquatity.put(ingredients_list[0].replace("[",""),Integer.parseInt(ingredients_list[1]));
+
 
             }
 
-            System.out.println(ingredientquatity);
+
+            ingredientsvtime.put(ingredientquatity,Integer.parseInt(products[products.length-1].replace("]","")));
+            this.recipes.put(products[0],ingredientsvtime);
+            ingredientsvtime.clear();
+
 
             //int no_of_ingredients = recepies[i].split(" ")[0];
             //recipes.put(recepies[i].split(" ")[0],Integer.parseInt(recepies[i].split(" ")[1]));
         }
-
+        System.out.println(this.recipes);
 
 
 
