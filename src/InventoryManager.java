@@ -20,7 +20,7 @@ public class InventoryManager {
     private void initializeInventory(){
         String data = readFile(COOKIE_FACTORY_DATA);
         String[] parts = data.split("#");
-        System.out.println(parts[3]);
+        //System.out.println(parts[3]);
 
         //Initializing Raw Materials
         String[] raw_materials = parts[3].split("\n");
@@ -29,7 +29,7 @@ public class InventoryManager {
         for(int i = 1;i < no_of_raw_materials;i++){
             rawmat_inventory.put(raw_materials[i].split(" ")[0],Integer.parseInt(raw_materials[i].split(" ")[1]));
         }
-        System.out.println(rawmat_inventory);
+        //System.out.println(rawmat_inventory);
 
         //Initializing Merchadise
         String[] Merchadise = parts[4].split("\n");
@@ -38,18 +38,26 @@ public class InventoryManager {
         for(int i = 1;i < no_of_merchandise;i++){
             merchandise_inventory.put(Merchadise[i].split(" ")[0],Integer.parseInt(Merchadise[i].split(" ")[1]));
         }
-        System.out.println(merchandise_inventory);
+        //System.out.println(merchandise_inventory);
 
         //understand recipies
         HashMap<HashMap, Integer> ingredientsvtime = new HashMap();
         HashMap<String, Integer> ingredientquatity = new HashMap();
         String[] recepies = parts[2].split("\n");
         int no_of_recepies = Merchadise.length;
-        System.out.println(recepies[1]);
+        System.out.println(recepies[2]);
 
         for(int i = 1;i < no_of_recepies;i++){
-            String[] products = recepies[i].split("\\[[^\\[]*\\]");
-            System.out.println(products[1]);
+            String[] products = recepies[i].split("[ ]");
+            for(int j = 1;j < products.length; j++){
+                String[] ingredients_list = products[j].split(":");
+                //ingredientquatity.put(ingredients_list[0].replace("[",""),Integer.parseInt(ingredients_list[1]));
+                System.out.println(ingredients_list[1]);
+
+            }
+
+            System.out.println(ingredientquatity);
+
             //int no_of_ingredients = recepies[i].split(" ")[0];
             //recipes.put(recepies[i].split(" ")[0],Integer.parseInt(recepies[i].split(" ")[1]));
         }
