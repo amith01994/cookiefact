@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.HashMap;
 
 public class InventoryManager {
-    private final String COOKIE_FACTORY_DATA = "cookieFactory.info" ;
+    private final String COOKIE_FACTORY_DATA = "cookieFactory.info";
     HashMap<String,Integer> rawmat_inventory;
     HashMap<String,Integer> merchandise_inventory;
     HashMap<String,HashMap> recipes;
