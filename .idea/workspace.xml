@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0436489b-1fa9-415f-bd8f-332aed5acf8e" name="Default" comment="" />
+=======
+    <list default="true" id="a6429c83-e5d2-4143-8733-28f8661ae824" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/InventoryManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment/InventoryManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InventoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InventoryManager.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,18 +19,81 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file leaf-file-name="FactoryRunner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FactoryRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FactoryRunner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FactoryRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
     </leaf>
   </component>
+=======
+      <file leaf-file-name="InventoryManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InventoryManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rmarrival.dat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rmarrival.dat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="invoice.dat " pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/invoice.dat ">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookieFactory.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cookieFactory.info">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FactoryRunner.java" />
+        <option value="$PROJECT_DIR$/src/InventoryManager.java" />
+      </list>
+    </option>
+  </component>
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -37,31 +109,64 @@
     <option name="width" value="1400" />
     <option name="height" value="1028" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="sliit-assignment" type="b2602c69:ProjectViewProjectNode" />
               <item name="sliit-assignment" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,6 +181,14 @@
     </option>
   </component>
   <component name="RunManager">
+<<<<<<< HEAD
+=======
+    <configuration name="FactoryRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryRunner" />
+      <module name="Assignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -117,22 +230,43 @@
       <properties />
       <listeners />
     </configuration>
+<<<<<<< HEAD
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FactoryRunner" />
+      </list>
+    </recent_temporary>
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="0436489b-1fa9-415f-bd8f-332aed5acf8e" name="Default" comment="" />
       <created>1523381474297</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523381474297</updated>
       <workItem from="1523381477403" duration="119000" />
+=======
+      <changelist id="a6429c83-e5d2-4143-8733-28f8661ae824" name="Default" comment="" />
+      <created>1523381594316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523381594316</updated>
+      <workItem from="1523381599339" duration="1293000" />
+      <workItem from="1523433088453" duration="601000" />
+      <workItem from="1524060932838" duration="588000" />
+      <workItem from="1524316172354" duration="12497000" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="119000" />
   </component>
   <component name="ToolWindowManager">
@@ -166,6 +300,42 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+=======
+    <option name="totallyTimeSpent" value="14979000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="58" y="-11" width="1863" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32991803" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32889345" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991803" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18807092" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +345,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/FactoryRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -197,5 +368,68 @@
         </settings>
       </state>
     </states>
+=======
+    <entry file="file://$PROJECT_DIR$/src/FactoryRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InventaryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rmarrival.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/invoice.dat ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cookieFactory.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactoryRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InventoryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> a5b6a68490660286636e8004a43d1db6e69e8f9a
   </component>
 </project>
